@@ -18,3 +18,5 @@
     * [9-Bang](a-guide-to-specialized-chemicals-and-toxins/grenades/9-bang.md)
     * [Poor Man’s QGP](a-guide-to-specialized-chemicals-and-toxins/grenades/poor-mans-qgp.md)
 * [Goon Secret Chems](goon-secret-chems.md)
+* [Plumbing](plumbing/README.md)
+  * [Modular Meth Factory](plumbing/modular-meth-factory.md)

@@ -1,0 +1,4 @@
+# Modular Meth Factory
+
+![Orange Box is the modular cooker can repeat until you need to increase ephedrine production](../.gitbook/assets/clarity.PNG) ![Overview of the factory in its smallest form](../.gitbook/assets/Overview.PNG) ![Step 1. Adjusting the chemical dispensers](../.gitbook/assets/step1.PNG) ![Step 2. Setting the Reaction Chambers, I would make sure to set these up while they are disconnected from the pipes to save some hassle](../.gitbook/assets/step2.PNG) ![Step 3. Setting the Filters as well as the Cookers acclimation and reaction chamber ](../.gitbook/assets/step3.PNG) ![Step 4. Repeat the Cooker design until you are satisfied](../.gitbook/assets/step4.PNG) ![Step 5. Add a Filter and Disposer where you want your output to be, and set as shown above. The Green box just represents your Final output method here it is an output, but you can easily attach a press aswell](../.gitbook/assets/step5.PNG)
+

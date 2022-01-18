@@ -20,3 +20,4 @@
 * [Goon Secret Chems](goon-secret-chems.md)
 * [Plumbing](plumbing/README.md)
   * [Modular Meth Factory](plumbing/modular-meth-factory.md)
+  * [Bit of Everything](plumbing/bit-of-everything.md)

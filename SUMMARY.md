@@ -19,5 +19,6 @@
     * [Poor Man’s QGP](a-guide-to-specialized-chemicals-and-toxins/grenades/poor-mans-qgp.md)
 * [Goon Secret Chems](goon-secret-chems.md)
 * [Plumbing](plumbing/README.md)
+  * [RDX Factory](plumbing/rdx-factory.md)
   * [Modular Meth Factory](plumbing/modular-meth-factory.md)
   * [Bit of Everything](plumbing/bit-of-everything.md)

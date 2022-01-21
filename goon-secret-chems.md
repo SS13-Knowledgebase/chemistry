@@ -4,6 +4,8 @@ description: By Kolokol
 
 # Goon Secret Chems
 
+### Secret chems:
+
 Bombini: Bee, Martini, Gunfire, Bees' Knees&#x20;
 
 Marteeny: Atrazine, Ants, Martini, Liquid Dark Matter, Helium, Energy Drink
@@ -63,7 +65,7 @@ Make a pill out of your nitrogen, then feed it to the same monkey. The new QGP e
 
 
 
-Older secret chems:
+### Older secret chems:
 
 Ageinium - Nicotine + Tea + Acetone + Chocolate + Formaldehyde 423.15 K&#x20;
 

@@ -6,9 +6,6 @@ description: >-
 
 # A Guide to Specialized Chemicals and Toxins
 
-This was made and tested on bee code, custom WS code, and forks of TG.\
-
-
 {% hint style="info" %}
 This was made and tested on bee code, custom WS code, and forks of TG.
 {% endhint %}

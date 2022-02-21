@@ -30,17 +30,17 @@ Heat to 450K, so it blows up easier.
 <summary>Beaker Layout</summary>
 
 **Beaker 1:**\
-****3 Parts Blackpowder (Gunpowder)\*\
+\*\*\*\*3 Parts Blackpowder (Gunpowder)\*\
 6 Parts Phlogiston\
 5 Parts Foam Surfactant\
 6 Parts Napalm
 
 **Beaker 2:**\
-****5 Parts Water\
-15 Parts Blackpowder (Gunpowder)\*\
-3 Parts Ethanol
+\*\*\*\*5 Parts Water\
+15 Parts Blackpowder (Gunpowder)\*
+
+
 
 \*Premake the Blackpowder(Gunpowder), and make sure not to blow it up with hot charcoal.
 
 </details>
-

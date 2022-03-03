@@ -23,4 +23,3 @@
   * [RDX Factory](plumbing/rdx-factory.md)
   * [Modular Meth Factory](plumbing/modular-meth-factory.md)
   * [Bit of Everything](plumbing/bit-of-everything.md)
-* [Page 1](page-1.md)

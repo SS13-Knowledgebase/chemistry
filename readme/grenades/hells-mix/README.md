@@ -37,7 +37,7 @@ Simply activate a grenade with the beakers below, and it will explode into a fir
 <summary>Beaker Layout</summary>
 
 **Beaker 1:**\
-****1 Part Oil\*\
+1 Part Oil\*\
 1 Part Radium\
 6 Parts Sulphuric Acid\
 1 Part Ethanol\
@@ -47,7 +47,7 @@ Simply activate a grenade with the beakers below, and it will explode into a fir
 1 Part Silicon
 
 **Beaker 2:**\
-****7 Parts Fluorine\
+7 Parts Fluorine\
 3 Parts Carbon\
 1 Part Aluminium\
 1 Part Iron\

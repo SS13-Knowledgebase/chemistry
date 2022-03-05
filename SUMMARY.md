@@ -14,6 +14,7 @@
     * [The Sudden Death Patch](a-guide-to-specialized-chemicals-and-toxins/toxins/the-sudden-death-patch.md)
   * [Grenades](a-guide-to-specialized-chemicals-and-toxins/grenades/README.md)
     * [Hell’s Mix](a-guide-to-specialized-chemicals-and-toxins/grenades/hells-mix.md)
+    * [Hell's Mix (TGcode variant)](readme/grenades/hells-mix-tgcode-variant.md)
     * [Mime’s Misery](a-guide-to-specialized-chemicals-and-toxins/grenades/mimes-misery.md)
     * [9-Bang](a-guide-to-specialized-chemicals-and-toxins/grenades/9-bang.md)
     * [Poor Man’s QGP](a-guide-to-specialized-chemicals-and-toxins/grenades/poor-mans-qgp.md)
@@ -23,3 +24,4 @@
   * [RDX Factory](plumbing/rdx-factory.md)
   * [Modular Meth Factory](plumbing/modular-meth-factory.md)
   * [Bit of Everything](plumbing/bit-of-everything.md)
+* [Goonstation Drive-by Bombing](goonstation-drive-by-bombing.md)
